@@ -1,5 +1,5 @@
 # 🔍 DataMatchAI: Dataset Suitability Checker
-![App Logo](assets/icon.png)
+![App Logo](logo.png)
 
 DataMatchAI helps researchers and data scientists quickly find public datasets relevant to their research goals. Just describe your project idea, and this tool uses a language model to match you with appropriate datasets and explain why.
 
